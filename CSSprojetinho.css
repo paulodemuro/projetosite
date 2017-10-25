@@ -1,0 +1,105 @@
+/*CSS*/
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+        sans-serif;
+    line-height: 1.6;
+}
+
+.place {
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.places {
+    float: left;
+    width: 900px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.place {
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.place img {
+    border: 1px solid #7E9F19;
+    margin: 10px auto 0;
+    padding: 2px;
+    display: block;
+}
+
+.place a {
+    color: #2C88A7;
+    font-weight: bold;
+}
+
+.place h2 {
+    border-bottom: 1px dashed #E6E6FA;
+    margin: 0;
+}
+
+
+h1 a {
+    color: #000000;
+    text-decoration: none;
+    text-align:center;
+}
+
+h1 a:hover {
+    background-color: #7E9F19;
+    color: #FFF;
+
+}
+
+body {
+    background: #FFFAFA url(file:///C:/Users/ph/Pictures/wallpapperwhite.png);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+        sans-serif;
+    line-height: 1.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+}
+
+.clear {
+    clear: both;
+}
+
+
+.sidenote {
+    background-color: #FFFFFF;
+    border: 1px solid #C9BC8F;
+    padding: 10px;
+    margin-top: 94px;
+    float: right;
+    padding: 10px;
+    width: 260px;
+}
+.sidenote h3 {
+    font-size: 16px;
+    margin-top: 0;
+}
+.sidenote ol {
+    font-size: 12px;
+}
+
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
